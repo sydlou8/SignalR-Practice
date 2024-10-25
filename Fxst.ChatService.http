@@ -1,0 +1,6 @@
+@Fxst.ChatService_HostAddress = http://localhost:5215
+
+GET {{Fxst.ChatService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
